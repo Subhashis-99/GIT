@@ -1,1 +1,1 @@
-print("it is multiplication folder")
+print("it is multiplication ")
